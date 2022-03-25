@@ -1,5 +1,6 @@
 # pythontest
 Basic RESTful API test skills
+Runs on Flask
 
 There are three endpoints:
 
